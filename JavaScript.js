@@ -18,6 +18,12 @@
 // // console.log(numbers.slice(1, 4)) // -> [2,3,4] // it doesn't include the ending position
 
 
-const numbers = [1, 2, 3, 4, 5]
+// const numbers = [1, 2, 3, 4, 5]
 
-console.log(numbers.splice(2)) 
+// console.log(numbers.splice(2)) 
+
+
+// const arr = ['item1', 'item2', 'item3']
+// // arr.push('new item')
+// arr.push('item')
+// console.log(arr)
